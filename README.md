@@ -1,7 +1,3 @@
----
-typora-root-url: resources
----
-
 # nightShot Camera
 
 This is a CNN based program that enhance the photo quality in low light environment which (may) works in a similar manner as Google Camera.
@@ -10,7 +6,7 @@ Given an amplification factor (gain), this program will convert the input, which
 
 | built-in post processing | output of the network |
 | :----------------------: | :-------------------: |
-|      ![01](/01.jpg)      |    ![02](/02.jpg)     |
+|   ![01](assets/01.jpg)   | ![02](assets/02.jpg)  |
 
 For more technical details about the structure and training datasets, please refer to the original paper:
 
